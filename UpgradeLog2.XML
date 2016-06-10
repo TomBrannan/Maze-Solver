@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Code">
+</Property><Property Name="Solution File" Value="C:\Users\Tom\Desktop\Assign1VS2013_start\Code.sln">
+</Property><Property Name="Date" Value="Thursday, June 09, 2016">
+</Property><Property Name="Time" Value="0:38:46 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Code" Source="Code.vcproj" Description="Converting project file 'C:\Users\Tom\Desktop\Assign1VS2013_start\Code.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Code" Source="Code.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Code" Source="Code.vcproj" Description="Done converting to new project file 'C:\Users\Tom\Desktop\Assign1VS2013_start\Code.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Code" Source="Code.vcproj" Description="Converted">
+</Event></UpgradeLog>
